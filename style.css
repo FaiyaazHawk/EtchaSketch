@@ -27,7 +27,7 @@ body {
 	line-height: 1;
 	background-color: #d3d3d3;
 	/* overflow-y used to hide bug when resizing grid*/
-	overflow-y: hidden;
+	
 	
 }
 ol, ul {
@@ -52,7 +52,7 @@ table {
 	
 }
 .grid {
-	border: 1px solid black;
+	border: 2px solid black;
 }
 h1 {
 	display: grid;
